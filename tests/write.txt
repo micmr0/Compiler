@@ -1,0 +1,9 @@
+float a = 0;
+
+print("podaj a: ");
+write(a);
+
+print("a wynosi ");
+print(a);
+
+

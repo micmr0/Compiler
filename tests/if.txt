@@ -1,0 +1,10 @@
+
+int  i = 0;
+float j = 5;
+
+while( i <= j )
+{
+	i = i+ 1;
+	print(i);
+}
+

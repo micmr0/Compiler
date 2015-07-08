@@ -1,0 +1,15 @@
+int a = 0;
+int b = 0;
+
+
+while(a<10)
+{
+	while(b < 5)
+	{
+		print(a+b);
+		printl();
+
+		a=a+1;
+		b=b+1;
+	}
+}

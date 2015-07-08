@@ -1,0 +1,4 @@
+int a = 1+2;
+int @b[a];
+int @c[2+4];
+int @d[a+5];

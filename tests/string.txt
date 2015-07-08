@@ -1,0 +1,6 @@
+string zmienna = "Ala ma kota \n";
+
+print(zmienna);
+print(5);
+printl();
+print(2.5);

@@ -1,0 +1,18 @@
+int a  = 1;
+int b=2;
+
+while (a < 5)
+{
+	print("a wynosi: ");
+	print(a);
+	printl();
+
+	while(b < 8)
+	{
+		print("b wynosi: ");
+		print(b);
+		b=b+2;
+		printl();
+	}
+	a=a+1;
+}

@@ -1,0 +1,11 @@
+float a;
+float b = 5.27;
+int c = 4+2+b;
+float d = b;
+c = 4+8;
+b = c;
+a = 2*3;
+
+print(d);
+printl();
+print(c);

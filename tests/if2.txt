@@ -1,0 +1,25 @@
+int i = 0;
+float j = 0;
+
+while(i<10)
+{
+	if(i<10)
+	{
+		j = j + 0.5;
+		print(j);
+		printl();
+	}
+	i = i + 1;
+}
+
+float a = 6.5;
+float b = 6.7;
+
+if(a > b)
+{
+	print("a wieksze od b");
+}
+else
+{
+	print("b wieksze od a");
+}

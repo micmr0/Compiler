@@ -1,0 +1,26 @@
+int @tablica[5];
+float @tablica1[5];
+
+@tablica[0] = 5;
+@tablica[1] = 5.2;
+@tablica[2] = 5.4;
+@tablica[3] = 5.6;
+@tablica[4] = 5.8;
+@tablica1[0] = @tablica[0]*5.3;
+
+
+print("wartosc1\n");
+print(@tablica[0]);
+printl();
+print(@tablica[1]);
+printl();
+print(@tablica[2]);
+printl();
+print(@tablica[3]);
+printl();
+print(@tablica[4]);
+printl();
+print("wartosc2\n");
+print(@tablica1[0]);
+
+
